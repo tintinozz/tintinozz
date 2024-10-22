@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Andrey Tintino
+## Andrey Tintino
 
 - 🔭 Hoje estou em busca da minha primeira experiência profissional
 - 🌱 Estou estudando Java e SQL.
